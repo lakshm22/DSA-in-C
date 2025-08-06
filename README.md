@@ -4,7 +4,7 @@ A repository for DSA in C programming language.
 ---
 
 ### Why C, though?
-Because C is the foundation (literally the base building block). It teaches you how memory works, how pointers behave, and how data structures function under the hood. If you can do DSA in C, you can do it in any language. 
+Because C is the foundation (literally the base building block). It teaches you how memory works, how pointers behave, and how data structures function under the hood and strengthens your logical knowledge and understanding of the concepts. If you can do DSA in C, you can do it in any language. 
 
 ---
 
