@@ -34,4 +34,4 @@ Hello there! I created this repository because when I was learning DSA in C, I c
 
 ---
 
-> Note: This is a community-first repo built solely to provide for the community, so feel free to fork it, send in PRs, and open issues.
+**> Note: This is a community-first repo built solely to provide for the community, so feel free to fork it, send in PRs, and open issues.**
