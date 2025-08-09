@@ -1,6 +1,5 @@
 // Program to create an array and get the length of the array and its elements from the user
 #include <stdio.h>
-
 int main() {
     int n, i, arr[i];
     printf("Enter the number of elements: ");
