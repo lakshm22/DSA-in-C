@@ -15,7 +15,6 @@ int main() {
     }
     printf("The reversed array is: \n");  // loop to print array elements in reverse order
     for(i=n-1;i>=0;i--){  // here i is initialised to n-1 since the last index n stores the NULL value (a.k.a no value: \0), and is set to >=0 bcs the index 0 stores a value
-        arr[n]=arr[n-1];   
         printf("arr[%d]: %d\n",i,arr[i]);
     }
     return 0;
