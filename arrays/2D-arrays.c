@@ -37,9 +37,9 @@ int main() {
   printf("%dx%d Matrix: \n", rows, cols);
 for(i=0; i<rows; i++){
     for(j=0; j<cols; j++){
-printf("%d ", arr[i][j]);
-}
-printf("\n");
+      printf("%d ", arr[i][j]);
+    }
+  printf("\n");
 }
 return 0;
 }
